@@ -20,11 +20,15 @@ body {
 }
 
 footer {
-  height: 40px;
   background-color: #333;
   color: #fff;
   vertical-align: center;
   align-content: center;
+}
+
+.social-icon {
+  color: #fff;
+  width: 100px;
 }
 /* hero background image */
 .bgimage {
